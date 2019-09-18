@@ -1,0 +1,15 @@
+{
+  "name": "comparepullfiles",
+  "version": "1.0.0",
+  "description": "A utility for checking conflicting files in ElToro's Portal-UI repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "aplombomb",
+  "license": "MIT",
+  "dependencies": {
+    "@octokit/rest": "^16.28.9",
+    "@types/node": "^12.7.4"
+  }
+}
