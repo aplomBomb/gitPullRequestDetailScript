@@ -9,7 +9,7 @@
   "author": "aplombomb",
   "license": "MIT",
   "dependencies": {
-    "@octokit/rest": "^16.28.9",
+    "@octokit/rest": "^19.0.13",
     "@types/node": "^12.7.4"
   }
 }
